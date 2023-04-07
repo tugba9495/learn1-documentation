@@ -5,3 +5,5 @@
 **this is bold text**
 
 *this is italized text*
+
+***this is bold italized text***
